@@ -2,6 +2,8 @@
 
 Zuul integration with Spring Cloud.
 
+**WARNING: WORKING IN PROGRESS**
+
 ## Getting Started
 
 Start zuul server
@@ -37,3 +39,4 @@ healthy%
 ## TODO
 
 - Load filters from the spring context
+- Abstract discovery cloud so that other discovery clients (e.g. consul) can be used.
